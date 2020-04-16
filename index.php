@@ -71,7 +71,7 @@
       <img class="ondas"src="imagenes/waves.png">
     </div>
     <div class="servicio celeste">
-      <h4>Responsive Desing</h4>
+      <h4>Responsive Design</h4>
       <p>Hoy en día las páginas web se ven en multitud de dispositivos como tablets, celulares, libros electrónicos, notebooks, PCs, etc. La tecnología móvil es el presente y el futuro. Para eso es importante y me aseguro de que tu sitio web sea compatible con todos los tamaños de pantalla de esta época moderna</p>
       <img class="icono"src="imagenes/mobile.png">
       <img class="ondas"src="imagenes/waves.png">
